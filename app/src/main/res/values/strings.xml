@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">game1</string>
+    <string name="sand">Stone</string>
+    <string name="paper">paper</string>
+    <string name="scissor">Scissor</string>
+    <string name="your_score">You</string>
+    <string name="computer_score">Computer</string>
+    <string name="choice">Choice</string>
+    <string name="score">Score</string>
+</resources>
