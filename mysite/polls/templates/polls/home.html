@@ -1,0 +1,23 @@
+
+<html>
+    <head>
+        <title> polls </title>
+    </head>
+
+    <body>
+        <p> Hey There</p>
+      
+    <ul>
+
+       {% for i in data %}
+          
+         <li> <a href="{{i.id}}">  {{ i }} </a> </li>
+       {% endfor %}
+       
+    </ul>
+
+
+    </body>
+
+
+</html>
